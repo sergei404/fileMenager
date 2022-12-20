@@ -1,0 +1,21 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergei404/fileMenager.git"
+  },
+  "keywords": [],
+  "author": "Sergei Butenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergei404/fileMenager/issues"
+  },
+  "homepage": "https://github.com/sergei404/fileMenager#readme"
+}
